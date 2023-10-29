@@ -34,7 +34,7 @@ This project demonstrates how to integrate Smile ID's Business Verification with
 
 ## Contribution
 
-We welcome contributions and suggestions to make the Kenyan Weather App even better. If you have ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request.
+I welcome contributions and suggestions to make the Kenyan Weather App even better. If you have ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request.
 For detailed implementation and usage, check the full article on Medium.
 
 ## Author
